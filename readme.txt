@@ -4,7 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 test`
 <<<<<<< HEAD
-create a new branch is quick and simple.
+create a new branch is quick and simple A.
 =======
 create a new branch is quick and simple.
 >>>>>>> feature1
