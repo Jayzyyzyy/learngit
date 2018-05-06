@@ -6,6 +6,6 @@ test`
 <<<<<<< HEAD
 create a new branch is quick and simple A.
 =======
-create a new branch is quick and simple.
+create a new branch is quick and simple a.
 >>>>>>> feature1
 new branch test..
